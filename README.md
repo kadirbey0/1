@@ -1,6 +1,4 @@
 # Merhaba Hoşgeldiniz
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -27,4 +25,5 @@ body {
 <body>
 </body>
 </html>
-Sayfamız Şuanda Bakımdadır
+#  Sayfamız Şuanda Bakımdadır
+
