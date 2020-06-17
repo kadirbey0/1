@@ -27,5 +27,6 @@ body {
 </html>
 #  Sayfamız Şuanda Bakımdadır
 
-<script language="javascript" src="http://ir.sitekodlari.com/superligpuandurumu1.js"></script>
+<script language="javascript" src="http://ir.sitekodlari.com/sansoyunlari1.js"></script>
+
 
