@@ -29,3 +29,14 @@ body {
 
 <a href="http://www.ipadresi.net" title="ip adresi"><img src="http://in3.sitekodlari.com/ipadresi2.php" border="0" alt="ip adresi"></a>
 
+<map name="falanca">
+
+<area shape="rect" coords"1,1,159,50" href="dikdortgen.html">
+
+<area shape="circle" coords="80,100,40" href="daire.html">
+
+<area shape="polyg" coords="10,110,150,110,80,190,9,110" href="ucgen.html">
+
+<area shape="default" nohref>
+
+</map>
