@@ -27,6 +27,5 @@ body {
 </html>
 #  Sayfamız Şuanda Bakımdadır
 
-<script language="javascript" src="http://ir.sitekodlari.com/superligpuandurumu1.js"></script>
-
+<a href="http://www.ipadresi.net" title="ip adresi"><img src=" border="0" alt="ip adresi"></a>
 
