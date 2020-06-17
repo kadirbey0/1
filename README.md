@@ -27,16 +27,17 @@ body {
 </html>
 #  Sayfamız Şuanda Bakımdadır
 
-<a href="http://www.ipadresi.net" title="ip adresi"><img src="http://in3.sitekodlari.com/ipadresi2.php" border="0" alt="ip adresi"></a>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ben tarayıcıda görünen başlık metniyim :)</title>
+</head>
+<body>
+ 
+<h1>Bu bir Başlık</h1>
+<p>Bu da benim ilk paragrafım. Merhaba HTML. Merhaba Dünya</p>
+ 
+</body>
+</html>
 
-<map name="falanca">
-
-<area shape="rect" coords"1,1,159,50" href="dikdortgen.html">
-
-<area shape="circle" coords="80,100,40" href="daire.html">
-
-<area shape="polyg" coords="10,110,150,110,80,190,9,110" href="ucgen.html">
-
-<area shape="default" nohref>
-
-</map>
+<a href="http://www.ipadresi.net" title="ip adresi"><img src="http://in3.sitekodlari.com/ipadresi2.php" border="0" alt="ip adresi"></a> 
