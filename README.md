@@ -34,7 +34,6 @@ body {
       <li><a href="/events">Etkinlikler</a></li>
     </ul>
   </nav>
-  <article>
     <header>
     </header>
     <nav>
