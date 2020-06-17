@@ -27,18 +27,11 @@ body {
 </html>
 #  Sayfamız Şuanda Bakımdadır
 
-<article>
- <header>
-  <h2><a href="#">Şort giyme hakkında kısa not</a></h2>
-   <p>Doe Joe tarafından 10 Şubat 2016 Çarşamba tarihinde gönderildi.
-   <a href="https://siteadi.com/#yorumlar">6 yorum</a></p>
- </header>
- <p>Diğer bir gezgin ilginç bir soru sordu: Neden şort giymiyorsun?
-&nbsp; uzun? Kişi zaman olarak culottes giyiyordu, bu yüzden doğada eşitlik sorununu düşündüm.
-&nbsp; ancak sorgulayıcının giysisinin şüpheli olmasına rağmen dürüst bir cevap vermeye çalıştım. </p>
-&nbsp; <p> Kısa cevap, şort giymekten hoşlandığım, uzun cevap ...</p>
- <p><a href="https://siteadi.com/notlar">Okumaya devam et: Kısa not
-&nbsp; giyen şort</a></p>
-</article>
+<nav>
+  <a href="/html/">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+  <a href="/jquery/">jQuery</a>
+</nav>
 
 <a href="http://www.ipadresi.net" title="ip adresi"><img src="http://in3.sitekodlari.com/ipadresi2.php" border="0" alt="ip adresi"></a> 
