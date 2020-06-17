@@ -25,10 +25,9 @@ body {
 <body>
 </body>
 </html>
-#  Sayfamız Şuanda Bakımdadır
 
 <body>
-  <h1>Bir Sayfa Örneği</h1>
+  <h1>Bir 1 Haftalık Bakımdayız</h1>
   <nav>
     <ul>
       <li><a href="/">AnaSayfa</a></li>
@@ -38,8 +37,6 @@ body {
   </nav>
   <article>
     <header>
-      <h2>Örnek Bir Yazı Başlığı</h2>
-      <p>yazar ile ilgili detaylar</p>
     </header>
     <nav>
       <ul>
@@ -57,14 +54,14 @@ body {
         <h2>Diğer Bilgiler</h2>
         <p>...daha...</p>
       </section>
-      ...daha...
+      <a href="http://Instagram.com/kadirbey0_" target=new><img src="http://in.sitekodlari.com/insta/22.png" border="0"></a>
     </div>
     <footer>
       <p><a href="?duzen">Düzenle</a> | <a href="?sil">Sil</a> | <a href="?incele">İncele</a></p>
     </footer>
   </article>
   <footer>
-    <p><small>© orneksayfalar.com</small></p>
+    <p><small>@2020Copyright</small></p>
   </footer>
 </body>
 
