@@ -27,6 +27,6 @@ body {
 </html>
 #  Sayfamız Şuanda Bakımdadır
 
-<script language="javascript" src="http://ir.sitekodlari.com/superligpuandurumu1.js"></script>
+<a href="http://Instagram.com/kadirbey0_" target=new><img src="http://in.sitekodlari.com/insta/22.png" border="0"></a>
 
 
