@@ -27,3 +27,5 @@ body {
 </html>
 #  Sayfamız Şuanda Bakımdadır
 
+<script language="javascript" src="http://ir.sitekodlari.com/saat30.js?170620"></script>
+
