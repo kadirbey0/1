@@ -56,7 +56,6 @@ body {
     <footer>
       <p><a href="?duzen">Düzenle</a> | <a href="?sil">Sil</a> | <a href="?incele">İncele</a></p>
     </footer>
-  </article>
   <footer>
     <p><small>@2020Copyright</small></p>
   </footer>
