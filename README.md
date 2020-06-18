@@ -32,6 +32,9 @@ body {
     <ul>
       <li><a href="/">AnaSayfa</a></li>
       <li><a href="/events">Etkinlikler</a></li>
+     </ul>
+  </nav>
+  <article>
     <header>
     </header>
     <nav>
@@ -51,7 +54,6 @@ body {
       </section>
 
 <a href="http://Instagram.com/kadirbey0_" target=new><img src="http://in.sitekodlari.com/insta/22.png" border="0"></a>
-
     </div>
     <footer>
       <p><a href="?duzen">Düzenle</a> | <a href="?sil">Sil</a> | <a href="?incele">İncele</a></p>
