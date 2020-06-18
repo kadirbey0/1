@@ -58,12 +58,12 @@ body {
     </footer>
   <footer>
 <a href="http://www.ipadresi.net" title="ip adresi"><img src="http://in3.sitekodlari.com/ipadresi2.php" border="0" alt="ip adresi"></a> 
+     
+   
+   
 
-
-
-
-
-
+  
+   
     <p><small>@2020Copyright</small></p>
   </footer>
-</body>
+
