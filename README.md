@@ -32,7 +32,6 @@ body {
     <ul>
       <li><a href="/">AnaSayfa</a></li>
       <li><a href="/events">Etkinlikler</a></li>
-    </ul>
     <header>
     </header>
     <nav>
