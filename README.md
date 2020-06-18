@@ -58,24 +58,49 @@ body {
     </footer>
   <footer>
 <a href="http://www.ipadresi.net" title="ip adresi"><img src="http://in3.sitekodlari.com/ipadresi2.php" border="0" alt="ip adresi"></a> 
-     
-   .adobewordpress {
-background: url(@kadirbey0_.jpg) no-repeat fixed;
-width:240px;height:80px;
-position:absolute;
-margin:75px 0 0 370px;
-border-radius:15px;
-box-shadow: 0 0 0 3px black, 0 0 0 6px white;
-padding:20px;
-font:1.2em "Trebuchet MS", Arial, Helvetica, sans-serif;
+  
+
+
+
+<div class="spinner"></div>
+
+.spinner{
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  animation-name: spinner .7s linear infinite;
+  -webkit-animation: spinner .7s linear  infinite;
+  -moz-animation: spinner .7s linear  infinite;
+}
+
+.spinner:after{
+  position: absolute;
+  content:'';
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  border-top:3px solid tomato;
+  border-bottom:3px solid tomato;
+  border-left:3px solid tomato;
+  border-right:3px solid transparent;
+  top: -3px;
+  left: -3px;
+}
+
+@keyframes spinner{
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
 }
  
-.adobewordpress span{
-color:#b52c2c;
+@-webkit-keyframes spinner{
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
 }
-HTML Kodları
-
-<div class="Seçil"><div class="adobewordpress">Hanım<span>Diceksiniz</span>, @kadirbey0_ <span>AdobeWordPress.com</span></div></div>
+ 
+@-moz-keyframes spinner{
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
 
  
  
