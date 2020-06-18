@@ -61,7 +61,7 @@ body {
      
    
    
-
+<br><center><embed src="http://player.myspace-player.com/swf/48j7e9b9e577b1fe68a027j7b6jecc4c/flaming.swf" menu="false" quality="high" width="280" height="320" name="poqbum-dot-com" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="playlist=http%3A%2F%2Fplayer.myspace-player.com%2Fswf%2F48j7e9b9e577b1fe68a027j7b6jecc4c%2Fmp3player.xml" wmode="transparent"></embed></center><center><a href="http://html-kodlar-merkez.tr.gg/" _fcksavedurl="http://html-kodlar-merkez.tr.gg/" _fcksavedurl="http://html-kodlar-merkez.tr.gg/"><small>Sitene Ekle!</small></a></center>
   
    
     <p><small>@2020Copyright</small></p>
