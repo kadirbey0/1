@@ -59,7 +59,28 @@ body {
   <footer>
 <a href="http://www.ipadresi.net" title="ip adresi"><img src="http://in3.sitekodlari.com/ipadresi2.php" border="0" alt="ip adresi"></a> 
      
-   
+   .adobewordpress {
+background: url(@kadirbey0_.jpg) no-repeat fixed;
+width:240px;height:80px;
+position:absolute;
+margin:75px 0 0 370px;
+border-radius:15px;
+box-shadow: 0 0 0 3px black, 0 0 0 6px white;
+padding:20px;
+font:1.2em "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+ 
+.adobewordpress span{
+color:#b52c2c;
+}
+HTML Kodları
+
+<div class="Seçil"><div class="adobewordpress">Hanım<span>Diceksiniz</span>, @kadirbey0_ <span>AdobeWordPress.com</span></div></div>
+
+ 
+ 
+ 
+ 
    
     <p><small>@2020Copyright</small></p>
   </footer>
