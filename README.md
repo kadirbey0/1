@@ -57,7 +57,13 @@ body {
       <p><a href="?duzen">Düzenle</a> | <a href="?sil">Sil</a> | <a href="?incele">İncele</a></p>
     </footer>
   <footer>
+<a href="http://www.ipadresi.net" title="ip adresi"><img src="http://in3.sitekodlari.com/ipadresi2.php" border="0" alt="ip adresi"></a> 
+
+
+
+
+
+
     <p><small>@2020Copyright</small></p>
   </footer>
-
-<a href="http://www.ipadresi.net" title="ip adresi"><img src="http://in3.sitekodlari.com/ipadresi2.php" border="0" alt="ip adresi"></a> 
+</body>
